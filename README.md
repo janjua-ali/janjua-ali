@@ -28,11 +28,6 @@
 🔹 [Titanic Survival Prediction (Python, scikit-learn)](https://github.com/janjuaali/Titanic-ML)  
 *Machine Learning project using Logistic Regression on Titanic dataset.*  
 
-🔹 [Bank Management System (C++)](https://github.com/janjuaali/Bank-Management)  
-*Console-based application for handling account transactions using OOP.*  
-
-🔹 [Date Calculator (C++)](https://github.com/janjuaali/Date-Calculator)  
-*Performs various date operations and calculations.*  
 
 ---
 
